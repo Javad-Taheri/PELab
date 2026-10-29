@@ -5,7 +5,7 @@ Explorer inside PE (exe, dll, ...) files and resource extractor. Supports 32 & 6
 Download the latest version from the [Releases](https://github.com/Javad-Taheri/PELab/releases/latest) section.
 
 ### System Requirements
-Windows Vista or later
+Windows Vista or later.
 
 ### License
 PE Lab is free to use.
